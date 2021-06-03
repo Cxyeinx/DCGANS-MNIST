@@ -17,3 +17,6 @@ The things to note in this paper:
 
 Lets hope it works, if it didn't.
 Don't loose hope, you have your whole life to adjust hyper params. 
+
+
+![](results/movie.gif)
